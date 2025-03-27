@@ -1,0 +1,23 @@
+what is the total revenue generatd from all Pizza Orders?
+
+what are the Monthly Sales trends for Dominos pizzas?
+
+Which Week of Month had highest Sales.(Weekly Sales Trend)
+
+What is peak order time during the day?
+
+what is the Distribution of orders across different Hours of Day?
+
+Which days of week has Highest Salesvand Lowest Sales?
+
+Are any Seasonal trends in pizza sales(weekdays or weekends)?
+
+Which size of Pizza had most ordered?
+
+What are top 5 best-selling pizzas based on orders?
+
+Which Pizza Category generates the most Revenue?
+
+
+
+
